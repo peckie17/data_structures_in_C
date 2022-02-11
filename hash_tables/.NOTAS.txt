@@ -1,0 +1,6 @@
+NOTAS
+Para abrir los archivos de texto, asegurarse que el working directory sea en la carpeta del archivo.
+
+main_mem.c solo corre el archivo una vez, dado el número máximo de instrucciones (max M).
+
+main.c se encarga de calcular los tiempos, promediados por n pruebas, estas son impresas en archivos. Para pruebas mayores a 1M, no se recomienda hacer más de una prueba.

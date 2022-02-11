@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624352135 source:c:\users\rebeca alvarado\documents\licenciatura\8semestre\computo de alto rendimiento\convex hull\convex_hull_f\convex_hull.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<time.h>
+	<inttypes.h>
+	"convex_hull.h"
+
+1624368992 c:\users\rebeca alvarado\documents\licenciatura\8semestre\computo de alto rendimiento\convex hull\convex_hull_f\convex_hull.h
+
